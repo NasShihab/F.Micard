@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
                 height: 20.0,
                 width: 200.0,
                 child: Divider(
-                  color: Colors.black,
+                  color: Colors.black54,
                 ),
               ),
               Card(
